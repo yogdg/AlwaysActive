@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.iobj
+*.ipdb
+*.lastbuildstate
+*.tlog
+*.log
+*.res
+/.Temp/AlwaysActive/x64/Debug/AlwaysActive.vcxproj.FileListAbsolute.txt
+*.ipch
+/.vs/AlwaysActive/v16
